@@ -1,0 +1,22 @@
+.chat{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chat_box{
+    width: 330px;
+    background:rgba(66, 184, 219, 0.2);
+    text-align: center;
+    padding:20px;
+    /* margin-top:50% ; */
+}
+.chat_box p{
+    font-size: 16px;
+}
+.chat_box p label{
+    font-size:20px;
+    font-weight: bold;
+    color:#2455A5;
+}

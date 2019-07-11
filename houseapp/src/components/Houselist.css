@@ -1,0 +1,22 @@
+.guessLike{
+    font-size:16px;
+    color:#999999;
+    /* margin-left:12px; */
+}
+.house_div{
+    display: flex;
+    justify-content:space-between;
+    margin-top:10px;
+    width: 100%;
+}
+.house_div img{
+    width: 30%;
+    /* height: 80px; */
+    /* margin-left: -15px; */
+}
+.house_div h4{
+    color:#000;
+}
+.house_div  p{
+    margin:0;
+}
